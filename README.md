@@ -1,2 +1,2 @@
-# Sprints6-7-9
+# Sprints6-7-8
 IT Academy itineraray : Sprints 6-7-8
